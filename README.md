@@ -9,7 +9,7 @@
 
 ## General Information
 
-This repository contains the source code for the experiments in the NeurIPS 2023 paper: A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment. We implemented **Perturbed Maximization**, a peer review paper assignment algorithm aiming to improve the randomness of assignment, and tested its performance under several configurations.
+This repository contains the source code for the experiments in the NeurIPS 2023 paper: [A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment](https://arxiv.org/abs/2310.05995). We implemented **Perturbed Maximization**, a peer review paper assignment algorithm aiming to improve the randomness of assignment, and tested its performance under several configurations.
 
 ## Technologies Used
 
